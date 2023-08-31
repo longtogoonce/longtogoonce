@@ -20,7 +20,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=longtogoonce&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiny-sky&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 🚧 **my todoist stats:**
 <!-- TODO-IST:START -->
@@ -32,7 +32,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 
 📈 my github stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=longtogoonce&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tiny-sky&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 
 
 
